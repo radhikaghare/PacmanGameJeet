@@ -43,6 +43,7 @@ function setup() {
 
 
 
+  /********** Added Code *********/
   obstacle60 = createSprite(232,300,207,2);
   obstacle61 = createSprite(410,300,110,2);
   obstacle62 = createSprite(548,300,127,2);
@@ -55,6 +56,8 @@ function setup() {
   obstacle66 = createSprite(336,250,2,100)
   obstacle67 = createSprite(465,250,2,100)
   obstacle68 = createSprite(485,250,2,100)
+  
+  /**********Added Code ********/
 
   /*pacman = createSprite(70,260,10,10);
   ghost1 = createSprite(350,100,10,10);
